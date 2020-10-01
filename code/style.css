@@ -3,3 +3,7 @@
 body {
   background-color: lightblue;
 }
+p {
+  border: 5px dotted blue;
+  padding: 10px;
+}
